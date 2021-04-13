@@ -8,6 +8,8 @@
 [<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
 [<img align="left" alt="ZanZver | Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" />][instagram]
 
+<br />
+<br />
 
 ### Languages and Tools:
 
