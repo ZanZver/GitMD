@@ -17,29 +17,16 @@
 <br />
 <br />
 
----
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/ZanZver/free-developer-resources/issues/8) in [ZanZver/free-developer-resources](https://github.com/ZanZver/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/ZanZver/free-developer-resources/issues/8) in [ZanZver/free-developer-resources](https://github.com/ZanZver/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/ZanZver/free-developer-resources/issues/7) in [ZanZver/free-developer-resources](https://github.com/ZanZver/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/ZanZver/free-developer-resources/pull/7) in [ZanZver/free-developer-resources](https://github.com/ZanZver/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/ZanZver/ZanZver-vscode-theme/issues/3) in [ZanZver/ZanZver-vscode-theme](https://github.com/ZanZver/ZanZver-vscode-theme)
-<!--END_SECTION:activity-->
-
-</details>
 
 
 ### :zap: GitHub Stats
 
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZanZver&show_icons=true&theme=nightowl" />
 
-### :zap: GitHub Stats
 <br />
+<br />
+
+### :zap: GitHub Stats
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver" />
 
 [instagram]: https://www.instagram.com/zan_the_zver/
