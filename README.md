@@ -5,8 +5,8 @@
 - about me
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ZanZver | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -24,11 +24,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-2. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🎉 Merged PR [#7](https://github.com/codeSTACKr/free-developer-resources/pull/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+1. ❗️ Closed issue [#8](https://github.com/ZanZver/free-developer-resources/issues/8) in [ZanZver/free-developer-resources](https://github.com/ZanZver/free-developer-resources)
+2. 🗣 Commented on [#8](https://github.com/ZanZver/free-developer-resources/issues/8) in [ZanZver/free-developer-resources](https://github.com/ZanZver/free-developer-resources)
+3. 🗣 Commented on [#7](https://github.com/ZanZver/free-developer-resources/issues/7) in [ZanZver/free-developer-resources](https://github.com/ZanZver/free-developer-resources)
+4. 🎉 Merged PR [#7](https://github.com/ZanZver/free-developer-resources/pull/7) in [ZanZver/free-developer-resources](https://github.com/ZanZver/free-developer-resources)
+5. 🗣 Commented on [#3](https://github.com/ZanZver/ZanZver-vscode-theme/issues/3) in [ZanZver/ZanZver-vscode-theme](https://github.com/ZanZver/ZanZver-vscode-theme)
 <!--END_SECTION:activity-->
 
 </details>
@@ -36,7 +36,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=ZanZver&show_icons=true&hide_border=true" />
+  <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats-ZanZver.vercel.app/api?username=ZanZver&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
