@@ -19,7 +19,7 @@
 <img align="left" alt="Python" width="26px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" />
 <img align="left" alt="R" width="26px" src="https://pics.freeicons.io/uploads/icons/png/7307783011551942296-512.png" />
 <img align="left" alt="SQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4962338431536834823-512.png" />
-<img align="left" alt="C#" width="26px" src="https://img.favpng.com/23/10/7/c-programming-language-logo-microsoft-visual-studio-net-framework-png-favpng-WLLTMqZhSPAk9q3DTh993fZnh.jpg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.imgbin.com/3/16/5/imgbin-net-framework-c-net-core-software-framework-mono-studio-frtzPxczw44UkVwKJYddVFgjQ.jpg" />
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
