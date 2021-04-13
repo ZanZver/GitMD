@@ -39,7 +39,7 @@
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZanZver&show_icons=true&theme=nightowl" />
 
 ### :zap: GitHub Stats
-
+<br />
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver" />
 
 [instagram]: https://www.instagram.com/zan_the_zver/
