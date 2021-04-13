@@ -40,7 +40,7 @@
 
 ### :zap: GitHub Stats
 
-<img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver&layout=compact" />
+<img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver" />
 
 [instagram]: https://www.instagram.com/zan_the_zver/
 [linkedin]: https://www.linkedin.com/in/zan-zver/
