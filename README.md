@@ -24,8 +24,7 @@
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZanZver&show_icons=true&theme=nightowl" />
 
 <br />
-<br />
----
+<br>
 
 ### :zap: GitHub Stats
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver" />
