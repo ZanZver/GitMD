@@ -35,7 +35,7 @@ My timetable in the UK:
             - Introduction to Data Science <br />
                 &nbsp;&nbsp;|-> introduction to data science steps and R <br />
             - Database and Web Application Development <br />
-                |-> developing PHP webpage with MySQL backend <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;|-> developing PHP webpage with MySQL backend <br />
             - Discrete Mathematics and Declarative Programming <br />
                 |-> combining math to coding with F# <br />
             - Data Visualization <br />
