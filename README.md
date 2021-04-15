@@ -1,8 +1,20 @@
-### Hi
+### You found my GitHub 🚀 Take a look! 🔎
 
 ## Short intro
 
-- about me
+- Hi! I am Zan, student at Birmingham City University (BCU) on Computer and Data science. My interest is in data science! You can see my personal and university work here. Take a look around, if you need me, feel free to send me a message on LinkedIn! 
+
+My timetable in the UK:
+- 2018-2019
+    -got 1st class in my 1st year
+    -completed apprenticeship in IT 
+- 2019-2020
+    -got 1st class in my 2nd year
+    -started with a placement year 
+- 2020-2021
+    -finished the placement 
+- 2021-2022
+    -started the 3th year of university
 
 ### Connect with me:
 [<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
