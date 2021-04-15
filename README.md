@@ -31,11 +31,11 @@ My timetable in the UK:
         <summary> got 1st class in my 2nd year 📘 </summary>
             Taken courses: <br />
             - Object Oriented Programming <br />
-                &nbsp;|-> object programming with Java <br />
+                <pre>   |-> object programming with Java </pre> <br />
             - Introduction to Data Science <br />
-                &nbsp;&nbsp;|-> introduction to data science steps and R <br />
+                |-> introduction to data science steps and R <br />
             - Database and Web Application Development <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;|-> developing PHP webpage with MySQL backend <br />
+                |-> developing PHP webpage with MySQL backend <br />
             - Discrete Mathematics and Declarative Programming <br />
                 |-> combining math to coding with F# <br />
             - Data Visualization <br />
