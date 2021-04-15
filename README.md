@@ -6,11 +6,14 @@
 
 My timetable in the UK:
 - 2018-2019<br />
-    -got 1st class in my 1st year 📗<br />
     <details>
-        <summary> test summary </summary>
+        <summary> got 1st class in my 1st year 📗 </summary>
+        more text
     </details>
-    -completed apprenticeship in IT<br />
+    <details>
+        <summary> completed apprenticeship in IT </summary>
+        more text
+    </details>
 - 2019-2020<br />
     -got 1st class in my 2nd year 📘<br />
     -started with a placement year<br /> 
