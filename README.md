@@ -7,13 +7,16 @@
 My timetable in the UK:
 - 2018-2019<br />
     -got 1st class in my 1st year 📗<br />
+    <details>
+        <summary> test summary </summary>
+    </details>
     -completed apprenticeship in IT<br />
 - 2019-2020<br />
     -got 1st class in my 2nd year 📘<br />
     -started with a placement year<br /> 
 - 2020-2021<br />
     -finished the placement 🧑‍💼<br /> 
-- 2021-2022
+- 2021-2022<br />
     -started the 3th year of university 🎓<br />
 
 ### Connect with me:
