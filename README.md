@@ -19,15 +19,8 @@
 <img align="left" alt="Python" width="26px" src="https://pics.freeicons.io/uploads/icons/png/12785093741551942290-512.png" />
 <img align="left" alt="R" width="26px" src="https://pics.freeicons.io/uploads/icons/png/7307783011551942296-512.png" />
 <img align="left" alt="SQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4962338431536834823-512.png" />
-<img align="left" alt="C#" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/74/74906.svg?token=exp=1618346021~hmac=51910d17fe880b7391a2af5c21a6e5eb" />
-
-
+<img align="left" alt="C#" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" />
 <img align="left" alt="AWS" width="26px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png" />
-
-
-
-SQL
-AWS
 
 
 <br />
