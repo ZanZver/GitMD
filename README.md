@@ -8,25 +8,64 @@ My timetable in the UK:
 - 2018-2019<br />
     <details>
         <summary> got 1st class in my 1st year 📗 </summary>
-        Taken courses: <br />
-        - Computer Programming <br />
-        - Computer Systems <br />
-        - Website Design and Development <br />
-        - Data Structures and Algorithms <br />
-        - Network Fundamentals <br />
-        - Innovation Project <br />
+            Taken courses: <br />
+            - Computer Programming <br />
+                |-> Python/coding fundamentals <br />
+            - Computer Systems <br />
+                |-> Linux, Raspberry Pi, Arduino setups <br />
+            - Website Design and Development <br />
+                |-> HTML and CSS development <br />
+            - Data Structures and Algorithms <br />
+                |-> algorithm thinking and development with Python <br />
+            - Network Fundamentals <br />
+                |-> basic networking with Cisco gear <br />
+            - Innovation Project <br />
+                |-> came up with project for face recognition and fingerprint detection
     </details>
     <details>
         <summary> completed apprenticeship in IT </summary>
-        more text
+            This apprenticeship was in Wing Yip and I was IT support. My responsibilities were simple as, setting / troubleshooting employee computers, testing new hardware and network analysis.
     </details>
 - 2019-2020<br />
-    -got 1st class in my 2nd year 📘<br />
-    -started with a placement year<br /> 
+    <details>
+        <summary> got 1st class in my 2nd year 📘 </summary>
+            Taken courses: <br />
+            - Object Oriented Programming <br />
+                |-> object programming with Java <br />
+            - Introduction to Data Science <br />
+                |-> introduction to data science steps and R <br />
+            - Database and Web Application Development <br />
+                |-> developing PHP webpage with MySQL backend <br />
+            - Discrete Mathematics and Declarative Programming <br />
+                |-> combining math to coding with F# <br />
+            - Data Visualization <br />
+                |-> displaying and manipulating data with R <br />
+            - Software Design <br />
+                |-> basic software design steps
+    </details>
+    <details>
+        <summary> started with a placement year </summary>
+            Blueberry Consult has offered me an early placement start so I have taken it. In the placement, I have been using the fallowing technologies on the placement: 
+            - AWS <br />
+                |-> creating and maintaining EC2 servers, automating buckets with Python <br />
+            - Zabbix / GrayLog / Grafana <br />
+                |-> logging and monitoring servers <br />
+            - SQL Server / MySQL <br />
+                |-> automating and anonymising data <br />
+            - PfSense / Ruckus switches <br />
+                |-> maintaining existing network and creating new one <br />
+            - Git <br />
+                |-> for code publishing <br />
+            - Python <br />
+                |-> scripting automation tasks <br />
+            - Microsft O365 <br />
+                |-> creating new users, integrating new VPN with Office sign in <br />
+            - Wiki <br />
+                |-> creating articles/guides on how I have done something 
+    </details>
 - 2020-2021<br />
     -finished the placement 🧑‍💼<br /> 
-- 2021-2022<br />
-    -started the 3th year of university 🎓<br />
+    -started the 3th year of university 🎓<br /> 
 
 ### Connect with me:
 [<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
