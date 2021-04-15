@@ -8,7 +8,13 @@ My timetable in the UK:
 - 2018-2019<br />
     <details>
         <summary> got 1st class in my 1st year 📗 </summary>
-        more text
+        Taken courses: <br />
+        - Computer Programming <br />
+        - Computer Systems <br />
+        - Website Design and Development <br />
+        - Data Structures and Algorithms <br />
+        - Network Fundamentals <br />
+        - Innovation Project <br />
     </details>
     <details>
         <summary> completed apprenticeship in IT </summary>
