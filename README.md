@@ -10,17 +10,17 @@ My timetable in the UK:
         <summary> got 1st class in my 1st year 📗 </summary>
             Taken courses: <br />
             - Computer Programming <br />
-                |-> Python/coding fundamentals <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Python/coding fundamentals <br />
             - Computer Systems <br />
-                |-> Linux, Raspberry Pi, Arduino setups <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Linux, Raspberry Pi, Arduino setups <br />
             - Website Design and Development <br />
-                |-> HTML and CSS development <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> HTML and CSS development <br />
             - Data Structures and Algorithms <br />
-                |-> algorithm thinking and development with Python <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> algorithm thinking and development with Python <br />
             - Network Fundamentals <br />
-                |-> basic networking with Cisco gear <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> basic networking with Cisco gear <br />
             - Innovation Project <br />
-                |-> came up with project for face recognition and fingerprint detection
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> came up with project for face recognition and fingerprint detection
     </details>
     <details>
         <summary> completed apprenticeship in IT </summary>
@@ -33,39 +33,43 @@ My timetable in the UK:
             - Object Oriented Programming <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> object programming with Java <br />
             - Introduction to Data Science <br />
-                |-> introduction to data science steps and R <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> introduction to data science steps and R <br />
             - Database and Web Application Development <br />
-                |-> developing PHP webpage with MySQL backend <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> developing PHP webpage with MySQL backend <br />
             - Discrete Mathematics and Declarative Programming <br />
-                |-> combining math to coding with F# <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> combining math to coding with F# <br />
             - Data Visualization <br />
-                |-> displaying and manipulating data with R <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> displaying and manipulating data with R <br />
             - Software Design <br />
-                |-> basic software design steps
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> basic software design steps
     </details>
     <details>
         <summary> started with a placement year </summary>
             Blueberry Consult has offered me an early placement start so I have taken it. In the placement, I have been using the fallowing technologies on the placement: <br /> 
             - AWS <br />
-                |-> creating and maintaining EC2 servers, automating buckets with Python <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating and maintaining EC2 servers, automating buckets with Python <br />
             - Zabbix / GrayLog / Grafana <br />
-                |-> logging and monitoring servers <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> logging and monitoring servers <br />
             - SQL Server / MySQL <br />
-                |-> automating and anonymising data <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> automating and anonymising data <br />
             - PfSense / Ruckus switches <br />
-                |-> maintaining existing network and creating new one <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> maintaining existing network and creating new one <br />
             - Git <br />
-                |-> for code publishing <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> for code publishing <br />
             - Python <br />
-                |-> scripting automation tasks <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> scripting automation tasks <br />
             - Microsft O365 <br />
-                |-> creating new users, integrating new VPN with Office sign in <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating new users, integrating new VPN with Office sign in <br />
             - Wiki <br />
-                |-> creating articles/guides on how I have done something 
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating articles/guides on how I have done something 
     </details>
 - 2020-2021<br />
-    -finished the placement 🧑‍💼<br /> 
-    -started the 3th year of university 🎓<br /> 
+    <details>
+        <summary> finished the placement 🧑‍💼</summary> 
+    </details>
+    <details>
+        <summary> started the 3th year of university 🎓</summary>
+    </details>
 
 ### Connect with me:
 [<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
