@@ -31,7 +31,7 @@ My timetable in the UK:
         <summary> got 1st class in my 2nd year 📘 </summary>
             Taken courses: <br />
             - Object Oriented Programming <br />
-                <pre>   |-> object programming with Java </pre> <br />
+                +: [tab][space]|-> object programming with Java <br />
             - Introduction to Data Science <br />
                 |-> introduction to data science steps and R <br />
             - Database and Web Application Development <br />
