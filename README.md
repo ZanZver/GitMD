@@ -31,9 +31,9 @@ My timetable in the UK:
         <summary> got 1st class in my 2nd year 📘 </summary>
             Taken courses: <br />
             - Object Oriented Programming <br />
-                |-> object programming with Java <br />
+                &nbsp;|-> object programming with Java <br />
             - Introduction to Data Science <br />
-                |-> introduction to data science steps and R <br />
+                &nbsp;&nbsp;|-> introduction to data science steps and R <br />
             - Database and Web Application Development <br />
                 |-> developing PHP webpage with MySQL backend <br />
             - Discrete Mathematics and Declarative Programming <br />
@@ -45,7 +45,7 @@ My timetable in the UK:
     </details>
     <details>
         <summary> started with a placement year </summary>
-            Blueberry Consult has offered me an early placement start so I have taken it. In the placement, I have been using the fallowing technologies on the placement: 
+            Blueberry Consult has offered me an early placement start so I have taken it. In the placement, I have been using the fallowing technologies on the placement: <br /> 
             - AWS <br />
                 |-> creating and maintaining EC2 servers, automating buckets with Python <br />
             - Zabbix / GrayLog / Grafana <br />
