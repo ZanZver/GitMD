@@ -2,7 +2,7 @@
 
 ## Short intro
 
-- Hi! I am Zan, student at Birmingham City University (BCU) on Computer and Data science🧑‍💻🧑‍🔬. My interest is in data science! You can see my personal and university work here. Take a look around, if you need me, feel free to send me a message on LinkedIn! 
+Hi! I am Zan, student at Birmingham City University (BCU) on Computer and Data science🧑‍💻🧑‍🔬. My interest is in data science! You can see my personal and university work here. Take a look around, if you need me, feel free to send me a message on LinkedIn! 
 
 My timetable in the UK:
 - 2018-2019<br />
@@ -23,7 +23,7 @@ My timetable in the UK:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> came up with project for face recognition and fingerprint detection
     </details>
     <details>
-        <summary> completed apprenticeship in IT </summary>
+        <summary> completed apprenticeship in IT ✅</summary>
             This apprenticeship was in Wing Yip and I was IT support. My responsibilities were simple as, setting / troubleshooting employee computers, testing new hardware and network analysis.
     </details>
 - 2019-2020<br />
@@ -44,7 +44,7 @@ My timetable in the UK:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> basic software design steps
     </details>
     <details>
-        <summary> started with a placement year </summary>
+        <summary> started with a placement year ⏱️/summary>
             Blueberry Consult has offered me an early placement start so I have taken it. In the placement, I have been using the fallowing technologies on the placement: <br /> 
             - AWS <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating and maintaining EC2 servers, automating buckets with Python <br />
@@ -65,10 +65,17 @@ My timetable in the UK:
     </details>
 - 2020-2021<br />
     <details>
-        <summary> finished the placement 🧑‍💼</summary> 
+        <summary> finished the placement 🧑‍💻 ✅</summary> 
     </details>
     <details>
         <summary> started the 3th year of university 🎓</summary>
+            Courses: <br />
+            - Modern Data Stores <br />
+            - Data Mining <br />
+            - Data Warehousing <br />
+            - Artificial Intelligence and Machine Learning <br />
+            - Individual Honours Project <br />
+
     </details>
 
 ### Connect with me:
