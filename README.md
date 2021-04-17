@@ -44,7 +44,7 @@ My timetable in the UK:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> basic software design steps
     </details>
     <details>
-        <summary> started with a placement year ⏱️/summary>
+        <summary> started with a placement year ⏱️ </summary>
             Blueberry Consult has offered me an early placement start so I have taken it. In the placement, I have been using the fallowing technologies on the placement: <br /> 
             - AWS <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating and maintaining EC2 servers, automating buckets with Python <br />
@@ -66,6 +66,7 @@ My timetable in the UK:
 - 2020-2021<br />
     <details>
         <summary> finished the placement 🧑‍💻 ✅</summary> 
+
     </details>
     <details>
         <summary> started the 3th year of university 🎓</summary>
