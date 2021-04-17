@@ -2,7 +2,7 @@
 
 ## Short intro
 
-Hi! I am Zan, student at Birmingham City University (BCU) on Computer and Data science🧑‍💻🧑‍🔬. My interest is in data science! You can see my personal and university work here. Take a look around, if you need me, feel free to send me a message on LinkedIn! 
+Hi! I am Zan, student at Birmingham City University (BCU) on Computer and Data science🧑‍💻🧑‍🔬. You can see my personal and university work here. My interest is in data science! Take a look around, if you have any questions or other enquiries, feel free to send me a message on LinkedIn! 
 
 My timetable in the UK:
 - 2018-2019<br />
@@ -24,7 +24,7 @@ My timetable in the UK:
     </details>
     <details>
         <summary> completed apprenticeship in IT ✅</summary>
-            This apprenticeship was in Wing Yip and I was IT support. My responsibilities were simple as, setting / troubleshooting employee computers, testing new hardware and network analysis.
+            This IT support apprenticeship was in Wing Yip. My responsibilities were simple as, setting / troubleshooting employee computers, testing new hardware and network analysis.
     </details>
 - 2019-2020<br />
     <details>
@@ -45,20 +45,20 @@ My timetable in the UK:
     </details>
     <details>
         <summary> started with a placement year ⏱️ </summary>
-            Blueberry Consult has offered me an early placement start so I have taken it. In the placement, I have been using the fallowing technologies on the placement: <br /> 
+            Blueberry Consult has offered me an early placement start so I have taken it. I have been using the following technologies on the placement: <br /> 
             - AWS <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating and maintaining EC2 servers, automating buckets with Python <br />
             - Zabbix / GrayLog / Grafana <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> logging and monitoring servers <br />
             - SQL Server / MySQL <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> automating and anonymising data <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> automating and anonymizing data <br />
             - PfSense / Ruckus switches <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> maintaining existing network and creating new one <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> maintaining existing network and creating a new one <br />
             - Git <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> for code publishing <br />
             - Python <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> scripting automation tasks <br />
-            - Microsft O365 <br />
+            - Microsoft O365 <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating new users, integrating new VPN with Office sign in <br />
             - Wiki <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating articles/guides on how I have done something 
@@ -69,7 +69,7 @@ My timetable in the UK:
 
     </details>
     <details>
-        <summary> started the 3th year of university 🎓</summary>
+        <summary> starting the 3th year of university 🎓</summary>
             Courses: <br />
             - Modern Data Stores <br />
             - Data Mining <br />
