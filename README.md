@@ -65,9 +65,8 @@ My timetable in the UK:
     </details>
 - 2020-2021<br />
     <details>
-
         <summary> Finished the placement 🧑‍💻 ✅  </summary> 
-        <summary> My placement presentation can be seen [here](https://github.com/ZanZver/PlacementPresentation) </summary> 
+        <summary> My placement presentation can be seen here: https://github.com/ZanZver/PlacementPresentation </summary> 
     </details>
     <details>
         <summary> starting the 3th year of university 🎓</summary>
@@ -81,7 +80,7 @@ My timetable in the UK:
             - Deep Neural Networks <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
             - Individual Honours Project <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo: https://github.com/ZanZver/FYP-DeTraC (please note that project has just started)<br />
 
     </details>
     
