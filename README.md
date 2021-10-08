@@ -65,6 +65,7 @@ My timetable in the UK:
     </details>
 - 2020-2021<br />
     <details>
+    [here](https://github.com/ZanZver/PlacementPresentation)
         <summary> Finished the placement 🧑‍💻 ✅</summary> 
         <summary> My placement presentation can be seen </summary> 
 
@@ -91,7 +92,7 @@ My timetable in the UK:
         <summary> Not there yet! </summary> 
 
     </details>
-[here](https://github.com/ZanZver/PlacementPresentation)
+
 ### Connect with me:
 [<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
 [<img align="left" alt="ZanZver | Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" />][instagram]
