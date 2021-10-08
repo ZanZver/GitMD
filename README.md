@@ -10,7 +10,7 @@ My timetable in the UK:
         <summary> got 1st class in my 1st year 📗 </summary>
             Taken courses: <br />
             - Computer Programming <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Python/coding fundamentals <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Python/coding fundamentals my first big python project can be seen here: https://github.com/ZanZver/BankSystem-Assignment <br />
             - Computer Systems <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Linux, Raspberry Pi, Arduino setups <br />
             - Website Design and Development <br />
@@ -39,7 +39,7 @@ My timetable in the UK:
             - Discrete Mathematics and Declarative Programming <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> combining math to coding with F# <br />
             - Data Visualization <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> displaying and manipulating data with R <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> displaying and manipulating data with R, cool code can be seen here: https://github.com/ZanZver/DataVisualizationProject <br />
             - Software Design <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> basic software design steps
     </details>
