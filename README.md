@@ -65,17 +65,29 @@ My timetable in the UK:
     </details>
 - 2020-2021<br />
     <details>
-        <summary> finished the placement 🧑‍💻 ✅</summary> 
+        <summary> Finished the placement 🧑‍💻 ✅</summary> 
+        <summary> My placement presentation can be seen here</summary> 
 
     </details>
     <details>
         <summary> starting the 3th year of university 🎓</summary>
             Courses: <br />
-            - Modern Data Stores <br />
-            - Data Mining <br />
-            - Data Warehousing <br />
+            - Data Management and Machine Learning Operations <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Maintaining SQL, optimising SQL and applying ML to SQL <br />
             - Artificial Intelligence and Machine Learning <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using Python to create ML models <br />
+            - Modern Data Stores <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
+            - Deep Neural Networks <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
             - Individual Honours Project <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo <br />
+
+    </details>
+    
+- 2021-2022<br />
+    <details>
+        <summary> Not there yet! </summary> 
 
     </details>
 
