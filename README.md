@@ -68,7 +68,6 @@ My timetable in the UK:
 
         <summary> Finished the placement 🧑‍💻 ✅  </summary> 
         <summary> My placement presentation can be seen [here](https://github.com/ZanZver/PlacementPresentation) </summary> 
-        <a href="url"></a> 
     </details>
     <details>
         <summary> starting the 3th year of university 🎓</summary>
