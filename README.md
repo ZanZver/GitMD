@@ -64,13 +64,10 @@ My timetable in the UK:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating articles/guides on how I have done something 
     </details>
 - 2020-2021<br />
-[here](https://github.com/ZanZver/PlacementPresentation)
     <details>
-    
-        <summary> Finished the placement 🧑‍💻 ✅</summary> 
-        <summary> My placement presentation can be seen </summary> 
 
-
+        <summary> Finished the placement 🧑‍💻 ✅  </summary> 
+        <summary> My placement presentation can be seen <a href="url">https://github.com/ZanZver/PlacementPresentation</a>  </summary> 
     </details>
     <details>
         <summary> starting the 3th year of university 🎓</summary>
