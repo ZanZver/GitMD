@@ -64,8 +64,9 @@ My timetable in the UK:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating articles/guides on how I have done something 
     </details>
 - 2020-2021<br />
+[here](https://github.com/ZanZver/PlacementPresentation)
     <details>
-    [here](https://github.com/ZanZver/PlacementPresentation)
+    
         <summary> Finished the placement 🧑‍💻 ✅</summary> 
         <summary> My placement presentation can be seen </summary> 
 
