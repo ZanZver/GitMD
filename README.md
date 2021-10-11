@@ -119,6 +119,7 @@ My timetable in the UK:
 
 
 &nbsp;
+<br/><br/>
 <p align="center">
   <img src="https://github.com/ZanZver/ZanZver/blob/master/matrix.gif" alt="animated" />
 </p>
