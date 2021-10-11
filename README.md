@@ -118,14 +118,7 @@ My timetable in the UK:
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver&theme=nightowl"/>
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+&nbsp;
 <p align="center">
   <img src="https://github.com/ZanZver/ZanZver/blob/master/matrix.gif" alt="animated" />
 </p>
