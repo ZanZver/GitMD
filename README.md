@@ -111,18 +111,17 @@ My timetable in the UK:
 <br />
 <br />
 
+<p align="center">
+  <img src="https://github.com/ZanZver/ZanZver/blob/master/matrix.gif" alt="animated" />
+</p>
 
-
+<br />
+<br />
 ### :zap: GitHub Stats
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZanZver&show_icons=true&theme=nightowl"/>
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver&theme=nightowl"/>
 
 
-&nbsp;
-<br/><br/>
-<p align="center">
-  <img src="https://github.com/ZanZver/ZanZver/blob/master/matrix.gif" alt="animated" />
-</p>
 
 [instagram]: https://www.instagram.com/zan_the_zver/
 [linkedin]: https://www.linkedin.com/in/zan-zver/
