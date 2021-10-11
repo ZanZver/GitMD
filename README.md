@@ -115,8 +115,6 @@ My timetable in the UK:
   <img src="https://github.com/ZanZver/ZanZver/blob/master/matrix.gif" alt="animated" />
 </p>
 
-<br />
-<br />
 ### :zap: GitHub Stats
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZanZver&show_icons=true&theme=nightowl"/>
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver&theme=nightowl"/>
