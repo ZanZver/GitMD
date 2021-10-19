@@ -80,8 +80,7 @@ My timetable in the UK:
             - Deep Neural Networks <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
             - Individual Honours Project <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo: https://github.com/ZanZver/FYP-DeTraC (this will be archived)
-https://github.com/ZanZver/DeTraC (new project base, TBD 🚀)
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo: https://github.com/ZanZver/FYP-DeTraC (this will be archived) https://github.com/ZanZver/DeTraC (new project base, TBD 🚀)
     <br />
 
     </details>
