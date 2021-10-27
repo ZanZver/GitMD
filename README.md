@@ -74,7 +74,7 @@ My timetable in the UK:
             - Data Management and Machine Learning Operations <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Maintaining SQL, optimising SQL and applying ML to SQL <br />
             - Artificial Intelligence and Machine Learning <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using Python to create ML models <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using Python to create ML models. My assessment GitHub has started! Have a look here: https://github.com/ZanZver/AI_and_ML_assessment <br />
             - Modern Data Stores <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
             - Deep Neural Networks <br />
