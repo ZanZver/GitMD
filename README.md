@@ -5,7 +5,7 @@
 Hi! I am Zan, student at Birmingham City University (BCU) on Computer and Data science🧑‍💻🧑‍🔬. You can see my personal and university work here. My interest is in data science! Take a look around, if you have any questions or other enquiries, feel free to send me a message on LinkedIn! 
 
 My timetable in the UK:
-- 2018-2019<br />
+- 2019<br />
     <details>
         <summary> got 1st class in my 1st year 📗 </summary>
             Taken courses: <br />
@@ -26,7 +26,7 @@ My timetable in the UK:
         <summary> completed apprenticeship in IT ✅</summary>
             This IT support apprenticeship was in Wing Yip. My responsibilities were simple as, setting / troubleshooting employee computers, testing new hardware and network analysis.
     </details>
-- 2019-2020<br />
+- 2020<br />
     <details>
         <summary> got 1st class in my 2nd year 📘 </summary>
             Taken courses: <br />
@@ -63,7 +63,7 @@ My timetable in the UK:
             - Wiki <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating articles/guides on how I have done something 
     </details>
-- 2020-2021<br />
+- 2021<br />
     <details>
         <summary> Finished the placement 🧑‍💻 ✅  </summary> 
         <summary> My placement presentation can be seen here: https://github.com/ZanZver/PlacementPresentation </summary> 
@@ -85,7 +85,7 @@ My timetable in the UK:
 
     </details>
     
-- 2021-2022<br />
+- 2022<br />
     <details>
         <summary> Not there yet! </summary> 
 
