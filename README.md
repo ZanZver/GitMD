@@ -84,7 +84,7 @@ My timetable in the UK:
             - Modern Data Stores <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
             - Deep Neural Networks <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using DNN for prediction of chocolate ratings https://github.com/ZanZver/DeepNuralNetworks/blob/main/Report/DNN_Assignment2.pdf <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using DNN for prediction of chocolate ratings https://github.com/ZanZver/DeepNuralNetworks<br />
             - Individual Honours Project <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo: https://github.com/ZanZver/FYP-DeTraC (this will be archived) https://github.com/ZanZver/DeTraC (new project base, TBD 🚀)
     <br />
