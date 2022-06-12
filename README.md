@@ -82,7 +82,7 @@ My timetable in the UK:
             - Artificial Intelligence and Machine Learning <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using Python to create ML models. My assessment GitHub has started! Have a look here: https://github.com/ZanZver/AI_and_ML_assessment <br />
             - Modern Data Stores <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Usaging MongoDB to implement NoSQL concepts. MongoDB was dockerised and clustered. https://github.com/ZanZver/IoT_System <br />
             - Deep Neural Networks <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using DNN for prediction of chocolate ratings https://github.com/ZanZver/DeepNuralNetworks<br />
             - Individual Honours Project <br />
