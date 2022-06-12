@@ -69,7 +69,13 @@ My timetable in the UK:
         <summary> My placement presentation can be seen here: https://github.com/ZanZver/PlacementPresentation </summary> 
     </details>
     <details>
-        <summary> starting the 3th year of university 🎓</summary>
+        <summary> Starting the 3th year of university📙</summary>
+    </details>
+    
+- 2022<br />
+    <details>
+        <details>
+        <summary> Finished with the 3th year of university 🎓</summary>
             Courses: <br />
             - Data Management and Machine Learning Operations <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Maintaining SQL, optimising SQL and applying ML to SQL <br />
@@ -82,12 +88,6 @@ My timetable in the UK:
             - Individual Honours Project <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo: https://github.com/ZanZver/FYP-DeTraC (this will be archived) https://github.com/ZanZver/DeTraC (new project base, TBD 🚀)
     <br />
-
-    </details>
-    
-- 2022<br />
-    <details>
-        <summary> Not there yet! </summary> 
 
     </details>
 
