@@ -70,11 +70,11 @@ My timetable in the UK:
     </details>
     <details>
         <summary> Starting the 3th year of university📙</summary>
+            Information can be seen in the 2022
     </details>
     
 - 2022<br />
     <details>
-        <details>
         <summary> Finished with the 3th year of university 🎓</summary>
             Courses: <br />
             - Data Management and Machine Learning Operations <br />
