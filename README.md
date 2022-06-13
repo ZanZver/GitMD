@@ -31,7 +31,7 @@ My timetable in the UK:
         <summary> got 1st class in my 2nd year 📘 </summary>
             Taken courses: <br />
             - Object Oriented Programming <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> object programming with Java <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> object programming with Java https://github.com/ZanZver/ObjectOrientedProgramming <br />
             - Introduction to Data Science <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> introduction to data science steps and R <br />
             - Database and Web Application Development <br />
@@ -69,25 +69,25 @@ My timetable in the UK:
         <summary> My placement presentation can be seen here: https://github.com/ZanZver/PlacementPresentation </summary> 
     </details>
     <details>
-        <summary> starting the 3th year of university 🎓</summary>
-            Courses: <br />
-            - Data Management and Machine Learning Operations <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Maintaining SQL, optimising SQL and applying ML to SQL <br />
-            - Artificial Intelligence and Machine Learning <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using Python to create ML models. My assessment GitHub has started! Have a look here: https://github.com/ZanZver/AI_and_ML_assessment <br />
-            - Modern Data Stores <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
-            - Deep Neural Networks <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> TBD in semester 2 <br />
-            - Individual Honours Project <br />
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo: https://github.com/ZanZver/FYP-DeTraC (this will be archived) https://github.com/ZanZver/DeTraC (new project base, TBD 🚀)
-    <br />
-
+        <summary> Starting the 3th year of university📙</summary>
+            Information can be seen in the 2022
     </details>
     
 - 2022<br />
     <details>
-        <summary> Not there yet! </summary> 
+        <summary> Finished with the 3th year of university 🎓</summary>
+            Courses: <br />
+            - Data Management and Machine Learning Operations <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Maintaining SQL, optimising SQL and applying ML to SQL https://github.com/ZanZver/MLOPS <br />
+            - Artificial Intelligence and Machine Learning <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using Python to create ML models. My assessment GitHub has started! Have a look here: https://github.com/ZanZver/AI_and_ML_assessment <br />
+            - Modern Data Stores <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Usaging MongoDB to implement NoSQL concepts. MongoDB was dockerised and clustered. https://github.com/ZanZver/IoT_System <br />
+            - Deep Neural Networks <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using DNN for prediction of chocolate ratings https://github.com/ZanZver/DeepNuralNetworks<br />
+            - Individual Honours Project <br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo: https://github.com/ZanZver/FYP-DeTraC (this will be archived). Final code can be found here: https://github.com/ZanZver/DeTraC_V2 (new project base, TBD 🚀)
+    <br />
 
     </details>
 
