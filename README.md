@@ -75,7 +75,7 @@ My timetable in the UK:
     
 - 2022<br />
     <details>
-        <summary> Finished with the 3th year of university 🎓</summary>
+        <summary> Finished with the 3th year of university (with 1st class) 🎓</summary>
             Courses: <br />
             - Data Management and Machine Learning Operations <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Maintaining SQL, optimising SQL and applying ML to SQL https://github.com/ZanZver/MLOPS <br />
