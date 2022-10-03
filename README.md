@@ -2,7 +2,7 @@
 
 ## Short intro
 
-Hi! I am Zan, student at Birmingham City University (BCU). I have graduated with 1st class in BSc Computer and Data science, now I am studying MSc Big Analytics 🧑‍💻🧑‍🔬. You can see my personal and university work here. My interest is in data science! Take a look around, if you have any questions or other enquiries, feel free to send me a message on LinkedIn! 
+Hi! I am Zan, student at Birmingham City University (BCU). I have graduated with 1st class in BSc Computer and Data science, now I am studying MSc Big Analytics 🧑‍💻🧑‍🔬. You can see my personal and university work here. My interest is in data science and data engineering! Take a look around, if you have any questions or other enquiries, feel free to send me a message on LinkedIn! 
 
 My timeline in the UK:
 - 2022<br />
@@ -97,8 +97,7 @@ My timeline in the UK:
 <br />
 
 ### Connect with me:
-[<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
-[<img align="left" alt="ZanZver | Instagram" width="22px" src="https://pics.freeicons.io/uploads/icons/png/6590558241561032669-512.png" />][instagram]
+[<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]=
 
 <br />
 
@@ -126,6 +125,4 @@ My timeline in the UK:
 <img align="left" alt="ZanZver's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanZver&theme=nightowl"/>
 
 
-
-[instagram]: https://www.instagram.com/zan_the_zver/
 [linkedin]: https://www.linkedin.com/in/zan-zver/
