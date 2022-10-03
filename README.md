@@ -27,13 +27,13 @@ My timeline in the UK:
         <summary> My placement presentation can be seen here: https://github.com/ZanZver/PlacementPresentation </summary> 
     </details>
     <details>
-        <summary> Starting the 3th year of university📙</summary>
+        <summary> Started the 3th year of university📙</summary>
             Information can be seen in the 2022
     </details>
     
 - 2020<br />
     <details>
-        <summary> got 1st class in my 2nd year 📘 </summary>
+        <summary> Got 1st class in my 2nd year 📘 </summary>
             Taken courses: <br />
             - Object Oriented Programming <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> object programming with Java https://github.com/ZanZver/ObjectOrientedProgramming <br />
@@ -49,7 +49,7 @@ My timeline in the UK:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> basic software design steps
     </details>
     <details>
-        <summary> started with a placement year ⏱️ </summary>
+        <summary> Started with a placement year ⏱️ </summary>
             Blueberry Consult has offered me an early placement start so I have taken it. I have been using the following technologies on the placement: <br /> 
             - AWS <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> creating and maintaining EC2 servers, automating buckets with Python <br />
@@ -71,7 +71,7 @@ My timeline in the UK:
     
 - 2019<br />
     <details>
-        <summary> got 1st class in my 1st year 📗 </summary>
+        <summary> Got 1st class in my 1st year 📗 </summary>
             Taken courses: <br />
             - Computer Programming <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Python/coding fundamentals my first big python project can be seen here: https://github.com/ZanZver/BankSystem-Assignment <br />
@@ -87,7 +87,7 @@ My timeline in the UK:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> came up with project for face recognition and fingerprint detection
     </details>
     <details>
-        <summary> completed apprenticeship in IT ✅</summary>
+        <summary> Completed apprenticeship in IT ✅</summary>
             This IT support apprenticeship was in Wing Yip. My responsibilities were simple as, setting / troubleshooting employee computers, testing new hardware and network analysis.
     </details>
 
