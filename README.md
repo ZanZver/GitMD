@@ -19,7 +19,10 @@ My timeline in the UK:
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using DNN for prediction of chocolate ratings https://github.com/ZanZver/DeepNuralNetworks<br />
             - Individual Honours Project <br />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> DeTraC neural network improvement, more information can be found on this repo: https://github.com/ZanZver/FYP-DeTraC (this will be archived). Final code can be found here: https://github.com/ZanZver/DeTraC_V2 (new project base, TBD 🚀)
+    </details>
+    <details>
         <summary> Started with MSc in Big Analytics </summary>
+    </details>
     <br />
     
 - 2021<br />
