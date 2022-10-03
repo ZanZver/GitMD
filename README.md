@@ -2,7 +2,7 @@
 
 ## Short intro
 
-Hi! I am Zan, student at Birmingham City University (BCU) on Computer and Data science🧑‍💻🧑‍🔬. You can see my personal and university work here. My interest is in data science! Take a look around, if you have any questions or other enquiries, feel free to send me a message on LinkedIn! 
+Hi! I am Zan, student at Birmingham City University (BCU). I have graduated with 1st class in BSc Computer and Data science, now I am studying MSc Big Analytics 🧑‍💻🧑‍🔬. You can see my personal and university work here. My interest is in data science! Take a look around, if you have any questions or other enquiries, feel free to send me a message on LinkedIn! 
 
 My timeline in the UK:
 - 2022<br />
