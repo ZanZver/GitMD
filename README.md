@@ -23,7 +23,6 @@ My timeline in the UK:
     <details>
         <summary> Started with MSc in Big Analytics </summary>
     </details>
-    <br />
     
 - 2021<br />
     <details>
@@ -95,7 +94,7 @@ My timeline in the UK:
             This IT support apprenticeship was in Wing Yip. My responsibilities were simple as, setting / troubleshooting employee computers, testing new hardware and network analysis.
     </details>
 
-    </details>
+<br />
 
 ### Connect with me:
 [<img align="left" alt="ZanZver | LinkedIn" width="22px" src="https://pics.freeicons.io/uploads/icons/png/16090541531530099327-512.png" />][linkedin]
