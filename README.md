@@ -138,8 +138,6 @@ My timeline in the UK:
 <p align="center">
   <img width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws_cp" />
 </p>
-<br />
-<br />
 
 <p align="center">
   <img src="https://github.com/ZanZver/ZanZver/blob/master/matrix.gif" alt="animated" />
