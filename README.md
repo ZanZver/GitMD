@@ -18,11 +18,11 @@ My timeline in the UK:
                 - Web Social Media Analytics and Visualisation <br />
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using text analysis, report was created that describes how people interact on Reddit and how is it reflected to social trends. Notebook and code are available here: https://github.com/ZanZver/SocialMediaAnalyticsCoursework <br />
                 - Big Data Management <br />
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Game data was used in order to build a system that handles data pipelines for data analysis. Report and notebook are available here: https://github.com/ZanZver/BigDataManagement<br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Game data was used in order to build a system that handles data pipelines for data analysis. Report and notebook are available here: https://github.com/ZanZver/BigDataManagement <br />
   </details>
   <details>
         <summary>Started working as junior data engineer at CDL.</summary> 
-            Started working as a full time junior data engineer. We are using Python, AWS, SQL and other automated systems.
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Started working as a full time junior data engineer. We are using Python, AWS, SQL and other automated systems.
             After joining the team, I have gotten AWS Certified Cloud Practitioner certification (https://www.credly.com/badges/7bc6c2bb-3947-4f46-92af-fd06acd58f31/public_url).
   </details>
 - 2022<br />
