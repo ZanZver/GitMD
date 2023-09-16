@@ -5,6 +5,26 @@
 Hi! I am Zan, student at Birmingham City University (BCU). I have graduated with 1st class in BSc Computer and Data science, now I am studying MSc Big Data Analytics 🧑‍💻🧑‍🔬. You can see my personal and university work here. My interest is in data science and data engineering! Take a look around, if you have any questions or other enquiries, feel free to send me a message on LinkedIn! 
 
 My timeline in the UK:
+- 2023<br />
+  <details>
+        <summary>Concluded first half of MSc Big Data analytics </summary>
+             Courses: <br />
+                - Advanced Databases <br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Build HA database for airport. Project code and report can be found here: https://github.com/ZanZver/AdvancedDatabasesCoursework <br /> 
+                - Data Mining <br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using hotel data, our team has explored trends and written a report on discoveries (https://github.com/ZanZver/DataMiningCoursework). <br />
+                - Applied Statistics <br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Chicago Crime rate was analyzed with popular appropriate techniques in order to see what is most likely going to happen to you as a individual. Code and report are available here: https://github.com/ZanZver/AppliedStatisticsCoursework<br />
+                - Web Social Media Analytics and Visualisation <br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Using text analysis, report was created that describes how people interact on Reddit and how is it reflected to social trends. Notebook and code are available here: https://github.com/ZanZver/SocialMediaAnalyticsCoursework <br />
+                - Big Data Management <br />
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Game data was used in order to build a system that handles data pipelines for data analysis. Report and notebook are available here: https://github.com/ZanZver/BigDataManagement <br />
+  </details>
+  <details>
+        <summary>Started working as junior data engineer at CDL.</summary> 
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |-> Started working as a full time junior data engineer. We are using Python, AWS, SQL and other automated systems.
+            After joining the team, I have gotten AWS Certified Cloud Practitioner certification (https://www.credly.com/badges/7bc6c2bb-3947-4f46-92af-fd06acd58f31/public_url).
+  </details>
 - 2022<br />
     <details>
         <summary> Finished with the 3th year of university (with 1st class) 🎓</summary>
@@ -112,6 +132,12 @@ My timeline in the UK:
 <img align="left" alt="SQL" width="26px" src="https://pics.freeicons.io/uploads/icons/png/4962338431536834823-512.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+<br />
+<br />
+
+<p align="center">
+  <img width="150px" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="aws_cp" />
+</p>
 <br />
 <br />
 
